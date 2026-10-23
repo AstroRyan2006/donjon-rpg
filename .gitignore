@@ -1,0 +1,9 @@
+donjon
+donjon_sdl
+*.o
+
+donjon.bin
+
+.DS_Store
+*.swp
+*~
